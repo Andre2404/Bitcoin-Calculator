@@ -1,6 +1,9 @@
 # Bitcoin Investment Calculator (Kost Edition) 
 A beginner-friendly, web-based cryptocurrency investment simulator designed to help users calculate potential profits and losses without risking real money.
 
+### try it now 
+https://bitcoin-calculator-nine.vercel.app/
+
 ## 🌟 Overview
 This tool is specifically tailored for the "Anak Kost" (student/budget-conscious) demographic, providing relatable financial perspectives by converting profits/losses into everyday equivalents like "Nasi Padang" meals or "Coffee" cups.
 
